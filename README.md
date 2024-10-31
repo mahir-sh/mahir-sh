@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mahir , a full-time full-stack  developer 👨‍💻 working  since 2022 🚀</div>  
+### <div align="center">I'm Mahir , a Backend   developer 👨‍💻 working  since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working at impactautomation  
